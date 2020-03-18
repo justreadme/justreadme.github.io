@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Daisy Shop - EVERYTHING
+title: Daisy Shop
 
 # Short description of your site
 description: " Đôi khi sự đấu tranh luôn cần phải có trong cuộc sống. Nếu cuộc sống trôi qua thật suôn sẻ, chúng ta sẽ không hiểu được cuộc sống, không có được bản lĩnh, nghị lực như chúng ta cần phải có, cuộc sống thật công bằng, không phải vô cớ mà mọi điều xảy đến với ta"
@@ -69,8 +69,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "freelancer2897@gmail.com"
-  facebook: Daisy-Shop-104859264477462
+  email: daisyshop.stuff.cosmetic@gmail.com
+  facebook: https://www.facebook.com/pg/Daisy-Shop-104859264477462
   #github: vietdung
   #twitter: vietdung
 #  reddit: yourname
