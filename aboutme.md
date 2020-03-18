@@ -11,41 +11,31 @@ Mỹ phẩm hàng xách tay, order chính hãng.
 
 ####  _Hạng mục: MUA SẮM VÀ BÁN LẺ._
 
-##### _Website hiện tai chuyên cung cấp các sản phẩm_
+#### _Website hiện tai chuyên cung cấp các sản phẩm_
   > - Dung dịch rửa tay khô.
   > - Nước rửa tay khô.
   > - Nước rửa tay  sát khuẩn
   > - Mỹ phẩm hàng xách tay, order chính hãng.
 
 &nbsp;
-##### Giờ làm việc : Luôn mở cửa.
-
+#### Giờ làm việc : Luôn mở cửa.
 &nbsp;
-&nbsp;
+#### Liên hệ:
 
-##### Liên hệ:
+- **EMAIL : [daisyshop.stuff.cosmetic@gmail.com](daisyshop.stuff.cosmetic@gmail.com)**
 
-- **EMAIL : [gmail](daisyshop.stuff.cosmetic@gmail.com)**
+- **FACEBOOK : [https://www.facebook.com/Daisy-Shop-104859264477462](https://www.facebook.com/Daisy-Shop-104859264477462)**
 
-- **FACEBOOK : [facebook](https://www.facebook.com/Daisy-Shop-104859264477462)**
-
-- **MESSENGER : [message](m.me/104859264477462)**
+- **MESSENGER : [m.me/104859264477462](m.me/104859264477462)**
 
 - **SĐT: +84 375563895
 
 &nbsp;
-&nbsp;
-
-
 
 ##### Địa chỉ : Vạn Phúc, quận Hà Đông, thành phố Hà Nội, Việt Nam. 
 
-
-
 &nbsp;
 &nbsp;
 
-
- 
  ### Peace!!
  
