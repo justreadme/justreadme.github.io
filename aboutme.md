@@ -12,7 +12,7 @@ Mỹ phẩm hàng xách tay, order chính hãng.
 ####  _Hạng mục: MUA SẮM VÀ BÁN LẺ._
 
 ##### _Website hiện tai chuyên cung cấp các sản phẩm_
-**> - Dung dịch rửa tay khô.
+  > - Dung dịch rửa tay khô.
   > - Nước rửa tay khô.
   > - Nước rửa tay  sát khuẩn
   > - Mỹ phẩm hàng xách tay, order chính hãng.
