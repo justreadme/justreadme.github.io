@@ -2,7 +2,7 @@
 layout: post
 title: Những dấu hiệu cơ bản nhận biết bạn đang mắc COVID-19 và hướng xử lý..
 subtitle: Cách phòng tránh Corona(COVID-19).
-image: /img/virus_corona.png
+image: /img/virus_corona.jpg
 tags: [corona, covid-19]
 ---
 
@@ -36,7 +36,7 @@ tags: [corona, covid-19]
  
  **_CHÍNH VÌ VẬY, KHI CÓ NHỮNG TRIỆU CHỨNG TRÊN ĐẶC BIỆT LÀ KHI BẠN VỪA ĐI TỪ VÙNG DỊCH VỀ  HAY CHỦ ĐỘNG KHAI BÁO CHO CƠ SỞ Y TẾ GẦN NHẤT_**
  
- ![anh1](/img/19-3-1.jpg)
+ ![anh1](/img/19-3-1.jpg){: .center-block :} 
  
  
  **Ngoài ra, khi nghi ngờ bản thân đang mắc COVID-19, bạn có thể tuân thủ các bước sau để thực hiện tự cách ly tại nhà một cách đúng đắn và tuân thủ tiêu chuẩn an toàn:**
@@ -49,6 +49,6 @@ khi có một trong các triệu chứng nghi ngờ mắc bệnh: ho, sốt, kh�
 - Hằng ngày lau nền nhà, bề mặt dụng cụ, tay nắm cửa ở gia đình, nơi cư trú bằng xà phòng hoặc các chất khử trùng hoặc chất tẩy rửa thông thường.
 - Hạn chế tiếp xúc với người được cách ly, đeo khẩu trang và giữ khoảng cách tối thiểu 2m khi cần tiếp xúc.
 
- ![anh2](/img/19-3-2.jpg)
+ ![anh2](/img/19-3-2.jpg){: .center-block :} 
  
  Hãy chung tay đẩy lùi dịch bệnh vì một Việt Nam khỏe mạnh.
