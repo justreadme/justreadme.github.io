@@ -2,7 +2,7 @@
 layout: post
 title: Bức tranh tổng thể tình hình dịch bệnh viêm phổi cấp do Virus Corona (COVID-19) 20/03/2020.
 subtitle: Tình hình cụ thể của Việt Nam.
-image: /img/anhth.jpg
+image: /img/anhth.png
 tags: [corona, covid-19]
 ---
   
@@ -27,7 +27,7 @@ tags: [corona, covid-19]
  >Đặc biệt, Bộ Y tế còn phát đi thông báo với những hàng khách trên các chuyến bay dưới đây, có người dương tính với virus Corona 
  >liên hệ ngay cơ sở y tế để được hướng dẫn.
  
-  ![anh3](/img/anh3.jpg){: .center-block :}
+  ![anh3](/img/anh3.png){: .center-block :}
   
  
  Thông báo tối 19.3, Bộ Y tế cho biết, ngoài 16 ca đã điều trị khỏi ở giai đoạn 1, 
