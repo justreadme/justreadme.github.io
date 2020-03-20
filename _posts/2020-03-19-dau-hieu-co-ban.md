@@ -2,7 +2,7 @@
 layout: post
 title: Những dấu hiệu cơ bản nhận biết bạn đang mắc COVID-19 và hướng xử lý..
 subtitle: Cách phòng tránh Corona(COVID-19).
-image: /img/virus-corona.png
+image: /img/virus_corona.png
 tags: [corona, covid-19]
 ---
 
