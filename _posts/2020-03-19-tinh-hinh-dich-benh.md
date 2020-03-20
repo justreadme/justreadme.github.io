@@ -2,7 +2,7 @@
 layout: post
 title: Bức tranh tổng thể tình hình dịch bệnh viêm phổi cấp do Virus Corona (COVID-19) 20/03/2020.
 subtitle: Tình hình cụ thể của Việt Nam.
-image: /img/anhth.png
+image: /img/anh3.png
 tags: [corona, covid-19]
 ---
   
@@ -11,7 +11,7 @@ tags: [corona, covid-19]
  nhiều hơn khu vực châu Á với 94.253 ca nhiễm và 3.417 ca tử vong. Và Ý đã chính thức vượt Trung Quốc về số người tử vong do COVID-19 gây ra,
  số ca tử vong ở Ý đã lên tới 3.405 trong khi đó số người nhiệm bệnh chỉ bằng 1/2 của Trung Quốc.
  
- ![anh1](/img/anh1.jpg){: .center-block :}
+ ![anh1](/img/anh2.jpg){: .center-block :}
  
  Thiếu hụt trầm trọng vật tư y tế và nhân lực là những gì châu Âu đang phải đối mặt.
  Nhiều nơi ở châu Âu đã siết chặt quy định đi lại, cách li phòng dịch trong vòng 14 ngày. 
@@ -21,7 +21,7 @@ tags: [corona, covid-19]
  
  **Tính đến ngày 20/03/2020, riêng Việt Nam đã ghi nhận 85 ca dương tính với Virus Corona**, trong đó có 69 ca mới tính từ ngày 06/03/2020.
  
-  ![anh2](/img/anh2.jpg){: .center-block :}
+  ![anh2](/img/anh1.jpg){: .center-block :}
   
  >Trong số 9 bệnh nhân Bộ Y tế công bố tối qua (19/03), chủ yếu là du học sinh và người Việt Nam sinh sống tại Anh trở về Việt Nam.
  >Đặc biệt, Bộ Y tế còn phát đi thông báo với những hàng khách trên các chuyến bay dưới đây, có người dương tính với virus Corona 
