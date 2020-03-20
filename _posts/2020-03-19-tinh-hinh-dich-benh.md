@@ -21,13 +21,13 @@ tags: [corona, covid-19]
  
  **Tính đến ngày 20/03/2020, riêng Việt Nam đã ghi nhận 85 ca dương tính với Virus Corona**, trong đó có 69 ca mới tính từ ngày 06/03/2020.
  
-  ![anh2](/img/anh1.jpg){: .center-block :}
+  ![anh2](/img/anh3.png){: .center-block :}
   
  >Trong số 9 bệnh nhân Bộ Y tế công bố tối qua (19/03), chủ yếu là du học sinh và người Việt Nam sinh sống tại Anh trở về Việt Nam.
  >Đặc biệt, Bộ Y tế còn phát đi thông báo với những hàng khách trên các chuyến bay dưới đây, có người dương tính với virus Corona 
  >liên hệ ngay cơ sở y tế để được hướng dẫn.
  
-  ![anh3](/img/anh3.png){: .center-block :}
+  ![anh3](/img/anh1.jpg){: .center-block :}
   
  
  Thông báo tối 19.3, Bộ Y tế cho biết, ngoài 16 ca đã điều trị khỏi ở giai đoạn 1, 
