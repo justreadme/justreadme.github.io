@@ -2,7 +2,7 @@
 layout: post
 title: Những dấu hiệu cơ bản nhận biết bạn đang mắc COVID-19 và hướng xử lý..
 subtitle: Cách phòng tránh Corona(COVID-19).
-image: /img/anh3.png
+image: /img/virus-corona.png
 tags: [corona, covid-19]
 ---
 
@@ -21,7 +21,7 @@ tags: [corona, covid-19]
  >cũng là nguyên nhân chính gây ra các trường hợp tử vong do virus Corona chủng mới.
  >Đây là triệu chứng rõ nét nhất và cũng nguy hiểm nhất gây ra bởi COVID-19.
  
- - Dấu hiệu 2: Ho khan, đau họng
+ - **Dấu hiệu 2: Ho khan, đau họng**
  >Ho khan, thậm chí có đờm đặc và bọt, khả năng cao là dấu hiệu của viêm phổi. 
  >Ngoài ra, đây cũng chính là một trong những triệu chứng điển hình, nghiêm trọng và phổ biến của COVID-19. 
  >Ho do COVID-19 gây ra sẽ không khỏi khi uống thuốc trị ho thông thường. 
@@ -36,8 +36,8 @@ tags: [corona, covid-19]
  
  **_CHÍNH VÌ VẬY, KHI CÓ NHỮNG TRIỆU CHỨNG TRÊN ĐẶC BIỆT LÀ KHI BẠN VỪA ĐI TỪ VÙNG DỊCH VỀ  HAY CHỦ ĐỘNG KHAI BÁO CHO CƠ SỞ Y TẾ GẦN NHẤT_**
  
+ ![anh1](/img/19-3-1.jpg)
  
- {Hình ảnh liên hệ}
  
  **Ngoài ra, khi nghi ngờ bản thân đang mắc COVID-19, bạn có thể tuân thủ các bước sau để thực hiện tự cách ly tại nhà một cách đúng đắn và tuân thủ tiêu chuẩn an toàn:**
  
@@ -48,7 +48,7 @@ khi có một trong các triệu chứng nghi ngờ mắc bệnh: ho, sốt, kh�
 - Giúp đỡ, động viên, chia sẻ với người được cách ly trong suốt thời gian cách ly.
 - Hằng ngày lau nền nhà, bề mặt dụng cụ, tay nắm cửa ở gia đình, nơi cư trú bằng xà phòng hoặc các chất khử trùng hoặc chất tẩy rửa thông thường.
 - Hạn chế tiếp xúc với người được cách ly, đeo khẩu trang và giữ khoảng cách tối thiểu 2m khi cần tiếp xúc.
- 
- {Hình ảnh phòng bệnh}
+
+ ![anh2](/img/19-3-2.jpg)
  
  Hãy chung tay đẩy lùi dịch bệnh vì một Việt Nam khỏe mạnh.
