@@ -25,7 +25,7 @@ navbar-links:
     - Nước rửa tay: "https://daisyshop.github.io/tags/#nước rửa tay khô"
     - Learn markdown: "http://www.markdowntutorial.com/"
   About Me: "aboutme"
-  Contact: "http://youtube.com"
+  Contact: "http://demopage.me/sieumoctoc"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
